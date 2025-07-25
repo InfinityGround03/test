@@ -26,7 +26,7 @@ function Home() {
         {/* Header */}
         <div className="p-6 text-center">
           <h1 className="text-6xl md:text-7xl font-bold bg-gradient-to-r from-[#bb00ff] to-[#90B5FF] bg-clip-text text-transparent mb-4 animate-pulse-glow">
-            Infinity AI
+            Infinity 111
           </h1>
           <p className="text-xl text-gray-300 animate-typing">
             Your intelligent conversation partner
